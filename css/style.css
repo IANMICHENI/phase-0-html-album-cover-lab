@@ -26,14 +26,15 @@ body {
 }
 
 h1 {
-  font-size: 12.25em;
+  font-size: 7.05em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
+  font-weight: bolder;
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.1em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
